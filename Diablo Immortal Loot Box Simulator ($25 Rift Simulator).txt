@@ -1,3 +1,1 @@
 https://diablo-rift-simulator.github.io/
-
-backup: https://github.com/FinuraBR/site-for-fun-backup-codes/blob/c026f371f8fc1c5de048d371e106f99dc358edf7/diablo-rift-simulator.github.io-1740263127.zip
