@@ -55,6 +55,7 @@ Uma coleção curada de sites para passar o tempo, jogar, aprender coisas novas 
 | :--- | :--- |
 | [The Useless Web](https://theuselessweb.com) | Clique no botão e seja enviado para um site completamente inútil. |
 | [Neal.fun](https://neal.fun) | Uma coleção de mini-experimentos e fatos bizarros da internet. |
+| [Floor796](https://floor796.com) | Uma animação em pixel art colaborativa e infinita de uma estação espacial cheia de referências. |
 | [Pointer Pointer](https://pointerpointer.com) | Aponte o mouse e o site achará uma foto de alguém apontando para ele. |
 | [Zoomquilt](https://zoomquilt.org) | Uma ilustração psicodélica com zoom infinito que nunca termina. |
 | [Hacker Typer](https://hackertyper.com) | Digite aleatoriamente e pareça um hacker profissional de filmes. |
